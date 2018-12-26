@@ -1,2 +1,2 @@
 # site
-Site criada com Bootstrap e php
+Site criado com Bootstra, php e JS
